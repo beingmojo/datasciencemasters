@@ -1,4 +1,8 @@
-###### NB: Fancy Homepage [here](http://datasciencemasters.org) (You are currently seeing the living document)
+###### NB: Fancy Homepage [here](http://datasciencemasters.org). This is a fork of the original [github repo](https://github.com/datasciencemasters/go)
+
+[License](https://github.com/datasciencemasters/go/license.md)
+
+![](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png)
 
 ## The Open-Source Data Science Masters - Curriculum
 
