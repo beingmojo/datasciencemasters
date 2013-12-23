@@ -1,12 +1,13 @@
-Skills
-======
 * 1. Fundamentals
+
+[lext][/linke/here]
+
 
 ** Matrices & Linear Algebra fundamentals
 
 ** Hash Functions
 
-** Relational Algebra
+	** Relational Algebra
 
 ** Inner, Outer, Cross, Theta Join
 
@@ -14,7 +15,7 @@ Skills
 
 * 2. Statistics
 
-** Probability theory
+  ** Probability theory
 
 ** Bayes theorem
 
@@ -33,3 +34,6 @@ Skills
 ** R Studio
 
 ** R Basics
+
+[/linke/here]: url.com "Title"
+
