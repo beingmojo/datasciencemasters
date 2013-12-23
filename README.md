@@ -1,8 +1,7 @@
 # The Open-Source Data Science Masters
-###### NB: Fancy Homepage with backround [here](http://datasciencemasters.org).
 This is a [fork of this](https://github.com/datasciencemasters/go), experimenting with different curriculum topics and themes.
 
-[License here](https://github.com/datasciencemasters/go/license.md).
+[License here](license.md).
 
 ###### A note on direction
 This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing). Out of personal preference and need for focus, the curriculum assumes and mainly uses **Python tools and resources**, except where marked as R, Java etc.
