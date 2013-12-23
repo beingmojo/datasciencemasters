@@ -7,7 +7,7 @@ This is a [fork of this](https://github.com/datasciencemasters/go). [License her
 ## The Open Source Data Science Curriculum
 ![](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png)
 
-	1. Fundamentals
+###	1. Fundamentals
 	   Matrices and Linear Algebra fundamentals
 	   Hash Functions, Binary Tree, O(n)
 	   Relational Algebra
@@ -28,7 +28,7 @@ This is a [fork of this](https://github.com/datasciencemasters/go). [License her
 	   Vendor Landscape
 	   Env setup
 	   
-	2. Statistics
+###	2. Statistics
 	   Pick a dataset
 	   Descriptive statistics
 	   Exploratory Data Analysis
@@ -59,9 +59,29 @@ This is a [fork of this](https://github.com/datasciencemasters/go). [License her
 	   Least squares fit
 	   Euclidean Distance
 
-	3. Programming
-
-	4. Machine Learning
+### 3. Programming
+	Python Basics
+	Working in Excel
+	R Setup
+	R Studio
+	R Basics
+	IBM SPSS
+	Rapid Miner
+	Variables
+	Vectors
+	Matrices
+	Arrays
+	Factors
+	Lists
+	Data Frames
+	Reading CSV data
+	Reading Raw data
+	Manipulate Data Frames
+	Functions
+	Factor Analysis
+	Install Packages
+	
+###	4. Machine Learning
 	   Numerical Var
 	   Categorical Var
 	   Supervised Learning
@@ -93,7 +113,7 @@ This is a [fork of this](https://github.com/datasciencemasters/go). [License her
 	   Collaborative Filtering
 	   Tagging
 	   
-	5. Text Mining / NLP
+###	5. Text Mining / NLP
 	   Corpus
 	   Named Entity Recognition
 	   Text Analysis
@@ -110,7 +130,7 @@ This is a [fork of this](https://github.com/datasciencemasters/go). [License her
 	   Classify Text
 	   Vocabulaty Mapping
 
-	6. Visualization
+###	6. Visualization
 	   Data Exploration in R (Hist, boxplot etc)
 	   Uni, Bi and multivariate Viz
 	   ggplot2
@@ -126,7 +146,7 @@ This is a [fork of this](https://github.com/datasciencemasters/go). [License her
 	   IBM ManyEyes
 	   Tableau
 
-	7. Big Data
+###	7. Big Data
 	   Map reduce fundamentals
 	   Hadoop
 	   HDFS
@@ -148,7 +168,7 @@ This is a [fork of this](https://github.com/datasciencemasters/go). [License her
 	   Cassandra
 	   MongoDB, Neo4j
 
-	8. Data Integration
+###	8. Data Integration
 	   Summary of Data Formats
 	   Data Discovery
 	   Data Sources & Acquisition
@@ -160,7 +180,7 @@ This is a [fork of this](https://github.com/datasciencemasters/go). [License her
 	   How Much Daya
 	   Using ETL
 
-	9. Data Munging
+###	9. Data Munging
 	   Dimensionality & Numerosity Reduction
 	   Normalization
 	   Data Scrubbing
@@ -173,7 +193,7 @@ This is a [fork of this](https://github.com/datasciencemasters/go). [License her
 	   Stratified Sampling
 	   Principal Component Analysis
 
-	10. Toolbox
+###	10. Toolbox
 		MS Excel w/ Analysis ToolPak
 		Java, Python
 		R, R-studio, Rattle
@@ -188,7 +208,6 @@ This is a [fork of this](https://github.com/datasciencemasters/go). [License her
 		D3.js, ggplot2, Shiny
 		IBM Languageware
 		Cassandra, MongoDB
-[test](skills.md)
 
 ## Resources
 * **Intro to Data Science** [UW / Coursera](https://www.coursera.org/course/datasci)
