@@ -18,6 +18,7 @@ Algebra-Steven-Levandosky/dp/0536667470/ref=sr_1_1?ie=UTF8&qid=1376546498&sr=8-1
  * [Toy Data Ideas](http://www.quora.com/Programming-Challenges-1/What-are-some-good-toy-problems-in-data-science)
 
 Skills
+
 	Matrices and Linear Algebra fundamentals
 		Linear Algebra / Levandosky [Stanford / Book](http://www.amazon.com/Linear-
 		Coding the Matrix: Linear Algebra through Computer Science Applications [Brown / Coursera](https://www.coursera.org/course/matrix)
@@ -45,6 +46,7 @@ Skills
  * Linear Programming (Math 407) [University of Washington / Course](http://www.math.washington.edu/~burke/crs/407/lectures/)
 
 Skills
+
 	Descriptive statistics
 	Exploratory Data Analysis
 	Histograms
@@ -81,6 +83,8 @@ Skills
 
 ### Computing
 #### Toolbox / Programming Languages / Software stacks
+Skills
+
 	Unix cli install programs and packages
 	Bash basics
 		cat, grep, wget etc
@@ -127,6 +131,7 @@ Skills
  * Natural Language Toolkit [NLTK](http://nltk.org/)
 
 Skills
+
 	Variables
 	Vectors
 	Matrices
@@ -145,6 +150,7 @@ Skills
 The art of converting or mapping data from one "raw" form into another format that allows for more convenient consumption of the data with the help of semi-automated tools. Expect to spend 80% of your workday doing some sort of data wrangling.
 * [What I learned from 2 years of 'data sciencing](http://www.quantisan.com/what-i-learned-from-2-years-of-data-sciencing/) Paul Lam
 
+Skills
 
 	Dimensionality & Numerosity Reduction
 	Normalization
@@ -171,6 +177,7 @@ The art of converting or mapping data from one "raw" form into another format th
 #### Visualization
 
 Skills
+
 	Data Exploration in R (Hist, boxplot etc)
     Uni, Bi and multivariate Viz
 	ggplot2
@@ -204,6 +211,7 @@ Skills
  * Machine Learning / CaltechX [Caltech / Edx](https://courses.edx.org/courses/CaltechX/CS1156x/Fall2013/)
 
 Skills
+
 	Numerical Var
 	Categorical Var
 	Supervised Learning
@@ -239,6 +247,7 @@ Skills
  * NLP with Python [O'Reilly / Book](http://shop.oreilly.com/product/9780596516499.do)
 
 Skills
+
 	Corpus
 	Named Entity Recognition
 	Text Analysis
