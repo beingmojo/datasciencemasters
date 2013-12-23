@@ -1,50 +1,196 @@
-###### NB: Fancy Homepage [here](http://datasciencemasters.org). This is a fork of the original [github repo](https://github.com/datasciencemasters/go)
+###### NB: Fancy Homepage with backround [here](http://datasciencemasters.org).
 
-[License](https://github.com/datasciencemasters/go/license.md)
+This is a [fork of this](https://github.com/datasciencemasters/go). [License here](https://github.com/datasciencemasters/go/license.md).
 
-![](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png)
-
-## The Open-Source Data Science Masters - Curriculum
-
-### The Internet is Your Oyster
-
-I didn't want to wait. I wanted to work on things I care about **now**. Why sleep through grad school lectures tomorrow when you can hack on interesting questions today?
-
-*see [my transcript](http://bit.ly/corthelldata)*
-
-With Coursera, ebooks, stackoverflow, and github -- all free and open -- how can you afford not to take advantage of an open source education?
-
-### The Motivation
-
-We need more Data Scientists.
-
-> ...by 2018 the United States will experience a shortage of 190,000 skilled data scientists, and 1.5 million managers and analysts capable of reaping actionable insights from the big data deluge.
-
--- [McKinsey Report Highlights the Impending Data Scientist Shortage](http://blog.gopivotal.com/news-2/mckinsey-report-highlights-the-impending-data-scientist-shortage) 23 July 2013
-
-> There are little to no Data Scientists with 5 years experience, because the job simply did not exist.
-
--- David Hardtke [How To Hire A Data Scientist](http://blog.bright.com/2012/11/13/how-to-hire-a-data-scientist/) 13 Nov 2012
-
-### An Academic Shortfall
-
-Classic academic conduits aren't providing Data Scientists -- this talent gap will be closed differently.
-
-> **Academic credentials are important but not necessary for high-quality data science.** The core aptitudes – curiosity, intellectual agility, statistical fluency, research stamina, scientific rigor, skeptical nature – that distinguish the best data scientists are widely distributed throughout the population.
-
-> We’re likely to see more uncredentialed, inexperienced individuals try their hands at data science, **bootstrapping their skills on the open-source ecosystem and using the diversity of modeling tools available.** Just as data-science platforms and tools are proliferating through the magic of open source, big data’s data-scientist pool will as well.
-
-> And there’s yet another trend that will alleviate any talent gap: the democratization of data science. While I agree wholeheartedly with Raden’s statement that “the crème-de-la-crème of data scientists will fill roles in academia, technology vendors, Wall Street, research and government,” I think he’s understating the extent to which **autodidacts – the self-taught, uncredentialed, data-passionate people – will come to play a significant role in many organizations’ data science initiatives.**
-
--- James Kobielus, [Closing the Talent Gap](http://www.ibmbigdatahub.com/blog/data-scientist-closing-talent-gap) 17 Jan 2013
-
-### Ready?
-
-***
+# The Open-Source Data Science Masters
 
 ## The Open Source Data Science Curriculum
+![](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png)
 
-Start here.
+	1. Fundamentals
+	   Matrices and Linear Algebra fundamentals
+	   Hash Functions, Binary Tree, O(n)
+	   Relational Algebra
+	   DB Basics
+	   Inner, Outer, Cross, Theta join
+	   CAP Theorem
+	   Tabular data
+	   Entropy
+	   Data Frames and Series
+	   Sharding
+	   OLAP
+	   Multidimensional Data Model
+	   ETL
+	   Reporting vs. BI vs. Analytics
+	   JSON & XML
+	   NoSQL
+	   Regex
+	   Vendor Landscape
+	   Env setup
+	   
+	2. Statistics
+	   Pick a dataset
+	   Descriptive statistics
+	   Exploratory Data Analysis
+	   Histograms
+	   Percentiles and outliers
+	   Probability theory
+	   Bayes Theorem
+	   Random Variables
+	   Cumulative Distribution Function (CDF)
+	   Continous Distributions (Normal, Poisson, Gaussian)
+	   Skewness
+	   ANOVA
+	   Probability Density Functions
+	   Central Limit Theorem
+	   Monte Carlo Method
+	   Hypothesis testing
+	   p-value
+	   Chi squared test
+	   Estimation
+	   Confidence intevals (CI)
+	   MLE
+	   Kernel Density Estimate
+	   Regression
+	   Covariance
+	   Correlation
+	   Pearson Coefficient
+	   Causation
+	   Least squares fit
+	   Euclidean Distance
+
+	3. Programming
+
+	4. Machine Learning
+	   Numerical Var
+	   Categorical Var
+	   Supervised Learning
+	   Unsupervised Learning
+	   Concepts, Inputs and Attributes
+	   Training and Test Data
+	   Classifier
+	   Prediction
+	   Lift
+	   Overfitting
+	   Bias and variance
+	   Classification
+		   Trees and classification
+		   Classification rate
+		   Decision trees
+		   Boosting
+		   Naive Bayes Classifiers
+		   K-Nearest neighbour
+	   Regression
+		   Logistic regression
+		   Ranking
+		   Linear regression
+		   Perceptron
+	   Clustering
+		   Hierarchical clustering
+		   K-means clustering
+	   Neural Networks
+	   Sentiment analysis
+	   Collaborative Filtering
+	   Tagging
+	   
+	5. Text Mining / NLP
+	   Corpus
+	   Named Entity Recognition
+	   Text Analysis
+	   UIMA
+	   Term Document Matrix
+	   Term Frequency and weight
+	   Support Vector Machines
+	   Association rules
+	   Market Based Analysis
+	   Feature Extraction
+	   Use Mahout
+	   Use Weka
+	   Use NLTK
+	   Classify Text
+	   Vocabulaty Mapping
+
+	6. Visualization
+	   Data Exploration in R (Hist, boxplot etc)
+	   Uni, Bi and multivariate Viz
+	   ggplot2
+	   Histogram & Pie (Uni)
+	   Tree and Tree Map
+	   Scatter Plot
+	   Line Charts
+	   Survey Plot
+	   Timeline
+	   Decision Tree
+	   D3.js
+	   InfoVis
+	   IBM ManyEyes
+	   Tableau
+
+	7. Big Data
+	   Map reduce fundamentals
+	   Hadoop
+	   HDFS
+	   Data Replication Principles
+	   Setup Hadoop (IBM / Cloudera / HortonWorks)
+	   Name & Data nodes
+	   Job and task tracker
+	   M/R Programming
+	   Sqoop: Loading Data in HDFS
+	   Flube, Scribe: For Unstructured Data
+	   SQL with Pig
+	   DWH with Hive
+	   Scribe, Chukwa For Weblog
+	   Using Mahout
+	   Zookeeper Avro
+	   Storm: Hadoop Realtime
+	   Rhadoop, RHIPE
+	   rmr
+	   Cassandra
+	   MongoDB, Neo4j
+
+	8. Data Integration
+	   Summary of Data Formats
+	   Data Discovery
+	   Data Sources & Acquisition
+	   Data Integration
+	   Data Fusion
+	   Transformation and enrichment
+	   Data survey
+	   Google OpenRefine
+	   How Much Daya
+	   Using ETL
+
+	9. Data Munging
+	   Dimensionality & Numerosity Reduction
+	   Normalization
+	   Data Scrubbing
+	   Handling missing values
+	   Unbiased estimators
+	   Binning sparse values
+	   Feature Extraction
+	   Denoising
+	   Sampling
+	   Stratified Sampling
+	   Principal Component Analysis
+
+	10. Toolbox
+		MS Excel w/ Analysis ToolPak
+		Java, Python
+		R, R-studio, Rattle
+		Weka, Knime, RapidMiner
+		Hadoop ditribution of choice
+		Spark, Storm
+		Flume, Scibe, Chukwa
+		Nutch, Talend, Scraperwiki
+		Webscraper, Flume, Sqoop
+		tm, RWeka, NLTK
+		RHIPE
+		D3.js, ggplot2, Shiny
+		IBM Languageware
+		Cassandra, MongoDB
+
+
+## Resources
 * **Intro to Data Science** [UW / Coursera](https://www.coursera.org/course/datasci)
  * *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
 
