@@ -188,7 +188,7 @@ This is a [fork of this](https://github.com/datasciencemasters/go). [License her
 		D3.js, ggplot2, Shiny
 		IBM Languageware
 		Cassandra, MongoDB
-
+[test](skills.md)
 
 ## Resources
 * **Intro to Data Science** [UW / Coursera](https://www.coursera.org/course/datasci)
